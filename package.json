@@ -1,0 +1,29 @@
+{
+  "name": "nexmo-mulesoft-join-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwell-kevin/nexmo-mulesoft-join-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwell-kevin/nexmo-mulesoft-join-demo/issues"
+  },
+  "homepage": "https://github.com/alwell-kevin/nexmo-mulesoft-join-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "firebase-admin": "^6.0.0",
+    "form-data": "^2.3.2",
+    "nexmo": "^2.3.2",
+    "node-salesforce": "^0.8.0",
+    "request": "^2.88.0"
+  }
+}
